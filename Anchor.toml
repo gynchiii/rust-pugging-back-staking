@@ -6,7 +6,7 @@ gem_farm = "FARmwqYvJnbDGsHYr7DoPiw3ToxBg1rH1SMKHkAXKyEE"
 url = "https://anchor.projectserum.com"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "/home/gynchiii/workspace/rustClass/PUGwzdePt6krfoQ7gRFfaGAN62buT7yP5xRB2FdK6ot.json"
 
 [scripts]
