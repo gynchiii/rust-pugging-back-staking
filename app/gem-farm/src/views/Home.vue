@@ -1,6 +1,6 @@
 <template>
   <div class="nes-container with-title mb-10">
-    <p class="title">Welcome</p>
+    <p class="title">Weeelcome</p>
     <p>Welcome to Gem Farm 💎 - the #1 NFT Staking solution on Solana!</p>
     <p class="mt-5">
       This front-end is primarily designed for the Farm Manager (most likely the
